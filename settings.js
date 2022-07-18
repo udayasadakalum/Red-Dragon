@@ -29,8 +29,8 @@ global.ownernomer = '+94753948932' //Owner Number <<<
 global.ownername = '😎ᴱᴳ᭄✩ＨＹＤＲＡ༒⇝' //Owner Name
 global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ YOUTUBE ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://www.youtube.com/channel/UCvvf441CaIHqFBGRNLNVuBQ/featured' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
